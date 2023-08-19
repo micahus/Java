@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>wiki.micah</groupId>
-    <artifactId>pandora</artifactId>
+    <artifactId>demo</artifactId>
     <version>0.0.1</version>
     <packaging>jar</packaging>
-    <name>demo</name>
-    <description>demo</description>
+    <name>Demo</name>
+    <description>Demo</description>
 
     <properties>
         <jdk.version>17</jdk.version>
